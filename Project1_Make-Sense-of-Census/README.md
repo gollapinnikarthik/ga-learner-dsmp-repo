@@ -18,8 +18,10 @@ Array Aggregation
 
 ### Approach taken to solve the problem
 
- Loaded the data and created a new column and used np.concatenate()  to add the new record to the variable where data is store
-Calculated the measures of central tendencies and range for age coloumn 
-Created columns by subsetting rows using condition filtering 
+ Loaded the data and created a new column and used np.concatenate()  to add the new record to the variable where data is store.
+ 
+Calculated the measures of central tendencies and range for age coloumn.
+
+Created columns by subsetting rows using condition filtering.
 
 
