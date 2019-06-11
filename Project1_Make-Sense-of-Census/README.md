@@ -8,8 +8,11 @@
  After completing this project, I had a better grip on working with numpy and I have applied the following concepts:
 
 Array Appending
+
 Array Slicing
+
 Array Filtering
+
 Array Aggregation
 
 
